@@ -8,11 +8,7 @@
 .container {
   width: 100%;
   min-height: 100vh;
-  background: linear-gradient(
-    135deg,
-    rgba(17, 76, 226, 0.848),
-    rgb(128, 55, 124)
-  );
+  background-color: hsla(0, 0%, 0%, 0.764);
   padding: 10px;
 }
 .todo-list {
